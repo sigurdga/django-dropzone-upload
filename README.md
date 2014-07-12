@@ -30,6 +30,7 @@ We assume you have git, python and python-virtualenv already installed.
 * Create virtualenv: virtualenv venv
 * Activate virtualenv: source venv/bin/activate
 * Install dependencies into virtualenv: pip install -r requirements.txt
+* Setup database: python manage.py syncdb
 * Run development server: python manage.py runserver
 * Open browser at localhost:8000
 
