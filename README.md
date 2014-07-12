@@ -9,7 +9,7 @@ Introduction
 
 [Dropzone.js](http://www.dropzonejs.com) by [Matias
 Meno](https://github.com/enyo) is a javascript library for drag and drop file
-uploading. It is very light and simple to configure and extend.
+uploading. It is very light and simple to configure and extend. This example uses ImageField, but you can easily change that to using FileField instead.
 
 I have earlier created
 [django-jquery-file-upload](https://github.com/sigurdga/django-jquery-file-upload),
