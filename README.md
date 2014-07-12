@@ -11,9 +11,14 @@ Introduction
 Meno](https://github.com/enyo) is a javascript library for drag and drop file
 uploading. It is very light and simple to configure and extend.
 
-Django-dropzone-upload tries to set up a minimal Django project using a
-small `fileupload` app that sets up a page with a Dropzone.js form. This
-project is trying to be as simple as possible to be easy to understand.
+I have earlier created
+[django-jquery-file-upload](https://github.com/sigurdga/django-jquery-file-upload),
+which integrates [jquery-file-upload](https://github.com/blueimp/jquery-file-upload) by
+[Sebastian Tschan](https://github.com/blueimp) with Django. That project has a
+lot of functionality and tries to be a complete package of all you need. It also works on older browsers.
+
+Django-dropzone-upload tries to be as minimal and simple to understand as
+possible, as it should be fairly easy to with Dropzone.js functionality.
 
 Howto
 -----
